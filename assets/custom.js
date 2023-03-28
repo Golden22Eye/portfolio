@@ -7,3 +7,7 @@ window.addEventListener("scroll", function(){
         nav.classList.remove("shadow-nav");
     }
 });
+
+
+
+
